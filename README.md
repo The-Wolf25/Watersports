@@ -1,6 +1,6 @@
-# app2
+Watersports Apllication
 
-A new Flutter project.
+A new Flutter project that consists of login and signup page with the home screen that has a list of the activities in a card view, Being once clicked you can view the activity and book it accordingly. However checkout isnt created yet.
 
 ## Getting Started
 
